@@ -1,2 +1,2 @@
 # TEST
-pratice useing GITHUB and PYTHON (personal)
+practice using GITHUB and PYTHON (personal)
